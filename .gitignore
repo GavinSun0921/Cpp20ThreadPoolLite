@@ -1,0 +1,5 @@
+.idea
+.clangd
+.clang-format
+.DS_Store
+build
