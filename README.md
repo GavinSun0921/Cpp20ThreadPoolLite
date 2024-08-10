@@ -8,7 +8,7 @@
 ├── CMakeLists.txt
 ├── LICENSE
 ├── README.md
-├── build
+├── build (ignored)
 ├── include
 │   └── thread_pool_lite.hpp
 └── main.cpp
@@ -16,7 +16,7 @@
 - CMakeLists.txt: CMake 构建配置文件。
 - LICENSE: 许可证文件，详细说明了项目的使用和分发条款。
 - README.md: 本文档，提供项目的详细信息和使用说明。
-- build/: 构建目录，包含编译生成的文件。
+- build/: 构建目录，包含编译生成的文件。（未同步）
 - include/: 头文件目录，包含 thread_pool_lite.hpp 文件。
 - main.cpp: 示例程序，演示了如何使用线程池计算圆周率。
 
