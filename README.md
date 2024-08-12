@@ -74,5 +74,5 @@ int main() {
 
 ## 贡献
 
-欢迎贡献代码和提出建议！请参阅 贡献指南 了解更多信息。
+欢迎贡献代码和提出建议！请参阅 [贡献指南](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) 了解更多信息。
 
