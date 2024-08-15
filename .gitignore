@@ -1,5 +1,6 @@
 .idea
 .vscode
+.cache
 .clangd
 .clang-format
 .DS_Store
