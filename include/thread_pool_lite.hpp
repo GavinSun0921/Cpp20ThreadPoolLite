@@ -106,7 +106,7 @@ class ThreadPoolExecutor {
         std::unique_lock<std::mutex> lock{m_mutex};
         m_cv.wait(lock, [this] { return m_done || !m_queue.empty(); });
 
-        if (m_done && m_queue.empty()) return;
+        if (m_done) return;
 
         task = std::move(m_queue.front());
         m_queue.pop();
