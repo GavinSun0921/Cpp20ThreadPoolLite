@@ -1,6 +1,7 @@
 # Cpp20ThreadPoolLite
 
-[![C++](https://img.shields.io/badge/support-C%2B%2B20%20or%20later-blue?style=flat&logo=cplusplus)](https://github.com/topics/cpp) [![CMake](https://img.shields.io/badge/support-v3.28%20or%20later-blue?style=flat&logo=cmake)](https://cmake.org/) [![update](https://img.shields.io/github/last-commit/GavinSun0921/Cpp20ThreadPoolLite)](https://github.com/GavinSun0921/Cpp20ThreadPoolLite/commits)
+[![C++](https://img.shields.io/badge/support-C%2B%2B20%20or%20later-blue?style=flat&logo=cplusplus)](https://github.com/topics/cpp) [![CMake](https://img.shields.io/badge/support-v3.28%20or%20later-blue?style=flat&logo=cmake)](https://cmake.org/) [![update](https://img.shields.io/github/last-commit/GavinSun0921/Cpp20ThreadPoolLite)](https://github.com/GavinSun0921/Cpp20ThreadPoolLite/commits) ![GitHub License](https://img.shields.io/github/license/GavinSun0921/Cpp20ThreadPoolLite)
+
 
 **Cpp20ThreadPoolLite** 是一个基于 C++20 标准实现的轻量级线程池，旨在帮助学习和掌握线程池的基本概念和实现细节。该项目展示了如何利用现代 C++20 特性构建一个高效的线程池，并通过计算圆周率的示例程序展示其使用方式。
 
