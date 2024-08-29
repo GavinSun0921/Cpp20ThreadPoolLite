@@ -15,7 +15,7 @@ double pi(int n) {
     futures.push_back(pool.submit(worker, i));
   }
   double p = 0.0;
-  for (auto &future : futures) {
+  for (auto& future : futures) {
     p += future.get();
   }
   return p;
