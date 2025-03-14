@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <fmt/core.h>
 
 #include "include/thread_pool_lite.hpp"
 
@@ -22,6 +22,6 @@ double pi(int n) {
 }
 
 int main() {
-    printf("Pi = %.12f\n", pi(1'000'000));
+    fmt::print("pi(1000000) = {}\n", pi(1000000));
     return 0;
 }
